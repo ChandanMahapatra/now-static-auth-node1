@@ -1,1 +1,1 @@
-{"version":2,"name":"now-static-auth-node","public":true,"env":{"AUTH_USERS":"@auth_users"},"builds":[{"src":"index.js","use":"@now/node"}],"routes":[{"src":"/.*","dest":"index.js"}]}
+{"version":2,"name":"now-static-auth-node","public":true,"env":{"AUTH_USERS":"@AUTH_USERS"},"builds":[{"src":"index.js","use":"@now/node"}],"routes":[{"src":"/.*","dest":"index.js"}]}
