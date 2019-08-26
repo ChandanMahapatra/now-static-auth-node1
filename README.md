@@ -1,4 +1,4 @@
-Example repo for [Now](https://now.sh) static site with basic auth. Based on https://github.com/flawyte/now-basic-auth.
+Example repo for [Now](https://now.sh) static site with basic auth. Based on https://github.com/flawyte/now-basic-auth and https://github.com/wzulfikar/now-static-auth-node
 
 To set env var `AUTH_USERS`, you can either:
 
